@@ -1,0 +1,6 @@
+40 MYI
+60 FYI
+
+[MYI] = 0.5796839415249323
+
+Note: Mask is shifted; continues outside image

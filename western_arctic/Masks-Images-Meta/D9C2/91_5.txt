@@ -1,0 +1,6 @@
+90 MYI
+10 FYI
+[MYI] = 0.7723613178460279
+
+
+Note: Mask is off, probably accounts for a few % error..

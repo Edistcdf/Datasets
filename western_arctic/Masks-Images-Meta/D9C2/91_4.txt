@@ -1,0 +1,4 @@
+91_4_91_FYI_CN_MYI.txt
+[MYI] = 0.144099672654346
+
+Note: Mask is a bit off.. Probably bring it up.. Perhaps overlay Nicely..
